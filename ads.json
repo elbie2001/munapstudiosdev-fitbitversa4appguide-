@@ -8,5 +8,7 @@
   "showGuideTopAd": true,
   "showGuideMidAd": true,
   "showGuideBottomAd": true,
-  "minInterstitialSeconds": 50
+  "interstitialTrigger": "guide_open_clicks",
+  "interstitialClickInterval": 2,
+  "minInterstitialSeconds": 15
 }
