@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "bannerId": "",
+  "nativeId": "",
+  "interstitialId": "",
+  "appOpenId": "",
+  "guideInlineAdType": "banner",
+  "showGuideTopAd": false,
+  "showGuideMidAd": true,
+  "showGuideBottomAd": true,
+  "minInterstitialSeconds": 90
+}
