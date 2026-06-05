@@ -1,12 +1,12 @@
 {
   "enabled": true,
-  "bannerId": "",
-  "nativeId": "",
-  "interstitialId": "",
-  "appOpenId": "",
-  "guideInlineAdType": "banner",
-  "showGuideTopAd": false,
+  "bannerId": "ca-app-pub-3940256099942544/6300978111",
+  "nativeId": "ca-app-pub-3940256099942544/2247696110",
+  "interstitialId": "ca-app-pub-3940256099942544/1033173712",
+  "appOpenId": "ca-app-pub-3940256099942544/3419835294",
+  "guideInlineAdType": "native",
+  "showGuideTopAd": true,
   "showGuideMidAd": true,
   "showGuideBottomAd": true,
-  "minInterstitialSeconds": 90
+  "minInterstitialSeconds": 50
 }
